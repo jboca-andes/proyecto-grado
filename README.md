@@ -44,9 +44,11 @@ Artefactos [Carpeta de artefactos](https://github.com/jboca-andes/proyecto-grado
 | R10       | Se debe exponer un servicio REST que realice las predicciones dadas las entradas del Objeto del contrato, Entidad contratante, monto y duración del contrato | Se realizan pruebas desde Postman                                                                                             | Cumple                                                                                                               | Cumple    | ![Imagen](https://github.com/jboca-andes/proyecto-grado/blob/main/Imagenes/PruebaAPI2.png?raw=true)                                                                                                                                                                                                                                                     |
 ### Mockups
 
-| Inicial                                 | Desplegado                                 |
-|:-----------------------------------------:|:-----------------------------------------:|
-| ![Inicial](https://github.com/jboca-andes/proyecto-grado/blob/main/Imagenes/Mockup%20animado.gif?raw=true) | ![Desplegado]([https://markdown.com.png](https://github.com/jboca-andes/proyecto-grado/blob/main/Imagenes/Desplegado.gif?raw=true)) |
+| Inicial                                 | 
+|:-----------------------------------------:|
+| ![Inicial](https://github.com/jboca-andes/proyecto-grado/blob/main/Imagenes/Mockup%20animado.gif?raw=true) |
+| Desplegado|
+|![Desplegado](https://github.com/jboca-andes/proyecto-grado/blob/main/Imagenes/Desplegado.gif?raw=true)|
 
 ### Arquitectura del proyecto
 ![Arquitectura](https://github.com/jboca-andes/proyecto-grado/blob/main/Imagenes/Arquitectura%20desplegada.png?raw=true)
