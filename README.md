@@ -42,10 +42,17 @@ Artefactos [Carpeta de artefactos](https://github.com/jboca-andes/proyecto-grado
 | Funcional |                                                                                                                                                              |                                                                                                                               |                                                                                                                      |           |                                                                                                                                                                                                                                                          |
 | R9        | Interfaz para dispositivos tipo laptop o de escritorio para el consumo de dicha informacion                                                                  | Se prueba desde dispositivos Windows y MAC                                                                                    | Cumple                                                                                                               | Cumple    | [Ver evidencia](https://github.com/jboca-andes/proyecto-grado/blob/main/Navegadores.md)                                                                                                                                                                                                                                                           |
 | R10       | Se debe exponer un servicio REST que realice las predicciones dadas las entradas del Objeto del contrato, Entidad contratante, monto y duración del contrato | Se realizan pruebas desde Postman                                                                                             | Cumple                                                                                                               | Cumple    | ![Imagen](https://github.com/jboca-andes/proyecto-grado/blob/main/Imagenes/PruebaAPI2.png?raw=true)                                                                                                                                                                                                                                                     |
+### Mockups
+
+| Inicial                                 | Desplegado                                 |
+|:-----------------------------------------:|:-----------------------------------------:|
+| ![Inicial](https://github.com/jboca-andes/proyecto-grado/blob/main/Imagenes/Mockup%20animado.gif?raw=true) | ![Desplegado]([https://markdown.com.png](https://github.com/jboca-andes/proyecto-grado/blob/main/Imagenes/Desplegado.gif?raw=true)) |
+
+### Arquitectura del proyecto
+![Arquitectura](https://github.com/jboca-andes/proyecto-grado/blob/main/Imagenes/Arquitectura%20desplegada.png?raw=true)
 
 
-
-Aviso de licenciamiento
+#### Aviso de licenciamiento
 
 La Licencia Creative Commons Zero Universal 1.0 (CC0) es una licencia de derechos de autor que proporciona una forma simple y efectiva para que los creadores renuncien a sus derechos de autor y coloquen sus obras en el dominio público. CC0 es una licencia irrevocable y no exclusiva, lo que significa que una vez que una obra está bajo CC0, cualquiera puede utilizarla de cualquier manera sin restricciones.
 
