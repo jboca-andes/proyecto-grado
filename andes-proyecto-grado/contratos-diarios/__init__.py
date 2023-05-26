@@ -33,9 +33,9 @@ def main(mytimer: func.TimerRequest) -> None:
     df_seleccion['Unidad de Duracion'] = 'Días'
 
     # Información de la cuenta de almacenamiento
-    storageAccountName = "uniandes"
-    storageKey = "rOxOhZtomjWN6vlV6oqXSo8jmgi4CYwR6s2yh0h9mKMvz4c908QP9pg/j3mMykflfBVJ/cpY5QU4+AStY1mwUw=="
-    containerName = "public"
+    storageAccountName = "xxxxxxxxxxxxxx"
+    storageKey = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    containerName = "xxxxxxxxxxxxxxxxxx"
 
     # Crea una instancia de BlockBlobService para interactuar con el servicio de almacenamiento de blobs
     blobService = BlockBlobService(account_name=storageAccountName, account_key=storageKey)
