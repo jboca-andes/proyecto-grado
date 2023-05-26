@@ -1,0 +1,13 @@
+{
+    "secrets":{
+        "secretkeyflask":"EstaEsUnaLlaveSuperSecreta",
+        "account_key":"rOxOhZtomjWN6vlV6oqXSo8jmgi4CYwR6s2yh0h9mKMvz4c908QP9pg/j3mMykflfBVJ/cpY5QU4+AStY1mwUw=="
+    },
+    "environment":{
+        "SESSION_TYPE":"filesystem",
+        "KEY_VAULT":"no-implementado",
+        "account_name":"uniandes",
+        "container_name":"public",
+        "blob_name":"tb27-zmix-SUS-COM.csv"
+    }
+}

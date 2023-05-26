@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Página con iframe</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+    #header {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    #logo {
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      width: 100px;
+      height: 100px;
+    }
+    #iframe-container {
+      text-align: center;
+    }
+    iframe {
+      width: 800px;
+      height: 600px;
+      border: none;
+    }
+  </style>
+</head>
+<body>
+  <div id="header">
+    <img src="https://www.parlamentoandino.org/images/actualidad/noticias/2022/12Da-de-la-Bandera-en-Colombia.png" alt="Logo" id="logo">
+    <h1>Ayudanos a detectar contratos extraños</h1>
+    <p>
+      Te invitamos a revisar los contratos, analizarlos y si dudas de alguno, votes, para que otros veedores puedan hacer lo mismo y entre todos ayudemos a tener una Colombia mas transparente
+    </p>
+  </div>
+
+  <div id="iframe-container">
+    <iframe title="Prototipo" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZGU2MWYwMzAtYWZiOC00OGZlLTk1MDItNTNhMTE0NGVhMTljIiwidCI6IjVmZmIyOTg2LTQ2MDctNDQwZS1iYjBmLWQyYjlmZmU2NjZlOSIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
+  </div>
+</body>
+</html>
