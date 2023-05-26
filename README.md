@@ -53,6 +53,9 @@ Artefactos [Carpeta de artefactos](https://github.com/jboca-andes/proyecto-grado
 ### Arquitectura del proyecto
 ![Arquitectura](https://github.com/jboca-andes/proyecto-grado/blob/main/Imagenes/Arquitectura%20desplegada.png?raw=true)
 
+### Video de presentación
+[![Mira el video](https://uniandes.edu.co/sites/default/files/logo-uniandes.png)](https://youtu.be/f2Z05TI9y4Y)
+
 
 #### Aviso de licenciamiento
 
