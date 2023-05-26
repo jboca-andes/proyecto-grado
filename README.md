@@ -19,6 +19,13 @@ Reporte de PowerBI directo: [Reporte de Power BI](https://app.powerbi.com/view?r
 
 Datos oficiales utilizados: [Datos abiertos CSV](https://www.datos.gov.co/resource/tb27-zmix.csv) | [Información del dataset](https://www.datos.gov.co/Gastos-Gubernamentales/Contratos-Secop-II/tb27-zmix)
 
+Aplicacion de ETL desarrollada para Azure Function [Codigo de la aplicación](https://github.com/jboca-andes/proyecto-grado/tree/main/andes-proyecto-grado)
+
+Aplicacion para la captura de votos de la ciudadania, desarrollada en Python y Flask [Codigo de la aplicación](https://github.com/jboca-andes/proyecto-grado/tree/main/reporte-contratos)
+
+Artefactos [Carpeta de artefactos](https://github.com/jboca-andes/proyecto-grado/tree/main/Artefactos)
+
+### Tabla de requerimientos
 
 | Aspecto   | Requerimiento                                                                                                                                                | Prueba Prevista                                                                                                               | Criterio o Metrica de evaluacion y rangos deseados                                                                   | Resultado | Prueba                                                                                                                                                                                                                                                   |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
